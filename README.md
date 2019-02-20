@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Delivery Zones and Delivery Report
 
 You can use the [editor on GitHub](https://github.com/erinpagemd/beachy-delivery-report/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
